@@ -1,0 +1,50 @@
+html,body {
+	background: white;
+}
+
+h1 {
+	font-family: Roboto,sans-serif;
+	font-size: 35px;
+	text-align: center;
+}
+
+h2 {
+	font-family: Roboto,sans-serif;
+	font-size: 20px;
+}
+
+a:hover {
+	color: #FFD700;
+}
+
+.nav {
+	background-color: white;
+}
+.nav h2 {
+	color: green;
+	text-align: center;
+}
+.navbar {
+	list-style-type: none;
+	display: inline-flex;
+}
+
+.navbar li {
+	font-family: "Comic Sans MS",sans-serif;
+	padding-right: 20px;
+}
+
+.navbar li a{
+	text-decoration: none;
+	text-align: center;
+}
+
+.sign{
+	float: right;
+}
+
+.footer {
+	font-size: 18px;
+	margin-top: 570px;
+	text-align: bottom;
+}
